@@ -1,0 +1,57 @@
+body
+{
+  background-image: url("bg3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p
+{
+ background-color: #F3DAF0 ;  color: #4C0A44;
+ font-family: Courier;
+ font-size: 12pt;
+
+}
+h1{
+  padding: 0;
+	margin: 4pt 0pt;
+  text-align: center;
+	font-size: 28pt;
+  color: #0975B7;
+  border: 2px solid black;
+}
+h3{
+
+  text-align: center;
+	font-size: 16pt;
+  color: #B60A0A;
+}
+.coco{
+  width: 400;
+  height: 500;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.links{
+  color: #665064;
+  text-align: left;
+	font-size: 16pt;
+  font-style: oblique;
+}
+table {
+	background-color: #eee;
+  border: 1px solid black;
+}
+
+th {
+	background-color: #ddd;
+	text-align: left;
+  border: 1px solid black;
+}
+td{
+  border: 1px solid black;
+}
+
+input[type=number]{
+    width: 40px;
+}
